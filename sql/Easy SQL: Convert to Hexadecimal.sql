@@ -1,0 +1,7 @@
+SELECT 
+
+TO_HEX(LEGS) AS LEGS,
+TO_HEX(ARMS) AS ARMS
+
+FROM MONSTERS
+-- https://www.codewars.com/kata/594a50bafd3b7031c1000013
